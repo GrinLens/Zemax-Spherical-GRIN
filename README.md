@@ -1,7 +1,7 @@
 # Zemax-Spherical-GRIN
 ### Zemax / Optical Studio Model for Spherical GRIN Lens
 
-See file "MGRIN Surface and Tools for Zemax Documentation.docx" for more details.
+See file "MGRIN Surface and Tools for Zemax Documentation.pdf" for more details.
 
 File list:
 ## Documentation
