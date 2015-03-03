@@ -10,6 +10,8 @@ MGRINx64_v3001.dll [64-bit version for 64-bit operating systems only]
 MGRINx32_v3001.dll [32-bit version for 32-bit operating systems only]
 
 ## Macros
+GRIN Macros.zip contains the following macros
+
 GRIN Base Material Index.zpl
 
 GRIN Contour Plot.zpl
