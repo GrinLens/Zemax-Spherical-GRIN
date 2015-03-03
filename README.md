@@ -5,7 +5,7 @@ See file "MGRIN Surface and Tools for Zemax Documentation.docx" for more details
 
 File list:
 ## Documentation
-MGRIN Surface and Tools for Zemax Documentation.docx
+MGRIN Surface and Tools for Zemax Documentation.pdf
 
 ## DLLs
 MGRINx64_v3001.dll [64-bit version for 64-bit operating systems only]
