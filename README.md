@@ -1,18 +1,20 @@
 # Zemax-Spherical-GRIN
-### Zemax / OpticStudio Model for Spherical GRIN Lens
+## Zemax / OpticStudio Model for Spherical GRIN Lens
+
+Click on "Releases" icon above for links to downloadable files.
 
 See file "MGRIN Surface and Tools for Zemax Documentation.pdf" for more details.
 
-File list:
-## Documentation
+##File list:
+### Documentation
 MGRIN Surface and Tools for Zemax Documentation.pdf
 
-## DLLs
+### DLLs
 MGRINx64_v3001.dll [64-bit version for 64-bit operating systems only]
 
 MGRINx32_v3001.dll [32-bit version for 32-bit operating systems only]
 
-## Macros
+### Macros
 GRIN Macros.zip contains the following macros
 
 GRIN Base Material Index.zpl
