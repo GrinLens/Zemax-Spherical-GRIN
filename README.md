@@ -13,7 +13,6 @@ at the line which says "commits, branch, release(s), contributor"
 
 click on either release or releases.  This leads to download links.
 
-
 See file "MGRIN Surface and Tools for Zemax Documentation.pdf" for more details.
 
 ##File list:
