@@ -1,7 +1,11 @@
 # Zemax-Spherical-GRIN
 ## Zemax / OpticStudio Model for Spherical GRIN Lens
 
-Click on "Releases" icon above for links to downloadable files.
+TO DOWNLOAD FILES:
+Look above, beneath the words "Zemax / Optical Studio Model for Spherical GRIN Lens"
+at the line which says "commits, branch, release(s), contributor"
+click on either release or releases.  This leads to download links.
+Or go to https://github.com/GrinLens/Zemax-Spherical-GRIN/releases
 
 See file "MGRIN Surface and Tools for Zemax Documentation.pdf" for more details.
 
