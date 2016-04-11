@@ -11,9 +11,11 @@ Look above, beneath the words "Zemax / Optical Studio Model for Spherical GRIN L
 
 at the line which says "commits, branch, release(s), contributor"
 
-click on either release or releases.  This leads to download links.
+click on either release or releases.  
 
-See file "MGRIN Surface and Tools for Zemax Documentation.pdf" for more details.
+Leads to download links.
+
+####See file "MGRIN Surface and Tools for Zemax Documentation.pdf" for more details.
 
 ##File list:
 ### Documentation
