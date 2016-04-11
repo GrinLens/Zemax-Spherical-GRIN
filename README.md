@@ -9,9 +9,9 @@ OR:
 
 Look above, beneath the words "Zemax / Optical Studio Model for Spherical GRIN Lens"
 
-at the line which says "commits, branch, release(s), contributor"
+at the line which says "commits, branch, release(s), contributor."
 
-click on either release or releases.  
+Click on either release or releases.  
 
 Leads to download links.
 
