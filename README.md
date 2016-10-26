@@ -17,6 +17,10 @@ Leads to download links.
 
 ####See file "MGRIN Surface and Tools for Zemax Documentation.pdf" for more details.
 
+##Known Bugs:
+Setting n_BFlag to 1 doesn't work properly if Material 1 has a higher index than Material 2
+(10/26/2016: This should be fixed in an upcoming release)
+
 ##File list:
 ### Documentation
 MGRIN Surface and Tools for Zemax Documentation.pdf
